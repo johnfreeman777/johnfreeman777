@@ -1,4 +1,4 @@
-### john freeman
+### John Freeman
 
 I run infrastructure for on-chain protocols and build small tools around them:
 node operators' guides, monitoring, and automation for EVM and Uniswap v4.
